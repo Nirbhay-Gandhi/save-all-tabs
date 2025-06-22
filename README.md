@@ -25,6 +25,12 @@ _______________________
 Upcoming features
 _________________________
 1. Check for MAC OS:
+   
+a. Create an .sh file upon automatically detecting the OS type
 
+b. How can we change the permission to '+x' for execution upon clicking by the user
+
+2. Add 'buy me a coffee' button
+ 
 
  
