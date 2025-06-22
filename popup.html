@@ -4,21 +4,28 @@
   <title>Save Tabs</title>
   <style>
     body {
-      width: 200px;
-      padding: 10px;
+      width: 220px;
+      padding: 12px;
       font-family: Arial, sans-serif;
     }
     button {
       width: 100%;
       padding: 8px;
+      margin-bottom: 8px;
       background: #4285f4;
       color: white;
       border: none;
       border-radius: 4px;
       cursor: pointer;
     }
+    #saveAllTabs {
+      background: #34a853; /* Green for "all tabs" */
+    }
+    #saveCurrentWindowTabs {
+      background: #4285f4; /* Blue for current window */
+    }
     button:hover {
-      background: #3367d6;
+      opacity: 0.9;
     }
     #status {
       margin-top: 10px;
@@ -29,7 +36,8 @@
   </style>
 </head>
 <body>
-  <button id="saveTabs">Save All Tabs</button>
+  <button id="saveAllTabs">Save All Tabs (All Windows)</button>
+  <button id="saveCurrentWindowTabs">Save Current Window Tabs</button>
   <div id="status"></div>
   <script src="popup.js"></script>
 </body>
