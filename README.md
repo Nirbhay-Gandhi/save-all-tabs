@@ -32,8 +32,7 @@ _______________________
 
 <i>tests</i>
 
-<img src="https://github.com/user-attachments/assets/644e7762-7279-4764-a311-f4248295ffa7" alt="icon" width="900"/>
-<br/> <br/>
+<br/>
 <img src="https://github.com/user-attachments/assets/7db2086b-b3e3-4f47-a407-8a4435a980d1" alt="icon" width="900"/>
 
 <br/> <br/>
