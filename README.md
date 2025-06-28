@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/e1ff25d0-35ac-4bdb-bac5-901c5c1c3ab9" alt="icon" width="50"/> 
 
 
-- Ever struggled with hundreds of chrome tabs open in your browser required to close it while also don't want to lose the track of it?
+- You also work keeping multiple tabs open in chrome browser and ever struggled to keep the track of it, particularly while closing the borwser?
 - While can't bookmark each of them and also can't simply reject all of them (what if you require to visit them again 🤷🏻‍♂️). 
 
 ### I have a solution!! Check out this chrome extension
