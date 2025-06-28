@@ -20,7 +20,23 @@ _______________________
 1. Can save the tabs of the current focused window
 2. Can save the tabs of all the opened browser windows
 3. Saves the links in a .bat file (Windows OS only)
+
 <img src="https://github.com/user-attachments/assets/7c89255c-43b0-4519-82fc-63f1f53b6a4f" alt="icon" width="900"/>
+
+<br/> <br/>
+
+<img src="https://github.com/user-attachments/assets/9d9d3b75-0c52-46cd-b26d-972a6a1173fc" alt="icon" width="900"/>
+
+<br/> <br/> 
+4. Saves the links in a .txt file (for OS other than windows)
+
+<i>tests</i>
+
+<img src="https://github.com/user-attachments/assets/644e7762-7279-4764-a311-f4248295ffa7" alt="icon" width="900"/>
+<br/> <br/>
+<img src="https://github.com/user-attachments/assets/7db2086b-b3e3-4f47-a407-8a4435a980d1" alt="icon" width="900"/>
+
+<br/> <br/>
 
 Upcoming features
 _________________________
